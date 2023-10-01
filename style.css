@@ -11,47 +11,18 @@ html {
 
 }
 
-.container-two{
-  width: 406px;
-  height: 742px;
-  top: -527px;
-  left: -530px;
-
-}
-
 .section-one {
   background-color: #cccc;
   padding: 40px 20px;
-}
-
-.section-two {
-  background-color: #fff;
-  padding: 40px 20px;
-}
-
-.section-three {
-  background-color: #fff;
-  padding: 40px 20px;
-}
-
-.page-two {
-  background-color: #cccc;
-  padding: 5px;
-}
-
-.close {
-  padding: 10px;
-  border: none;
-  background: none;
-  font-size: inherit;
-  line-height: inherit;
-  float: right;
 }
 
 
 .logo-img {
   width: 15%;
   height: auto;
+  position: relative;
+  top: 20px;
+  left: 20px;
 }
 
 .Covid-img {
@@ -85,4 +56,50 @@ p {
 
 .custom-width {
   width: 100%;
+}
+
+/*Index2 Styling*/
+
+.container-two{
+  width: 406px;
+  height: 742px;
+  top: -527px;
+  left: -530px;
+  background-color: #cccc;
+  margin: 0 AUTO;
+}
+
+.header-img{
+  position: relative;
+}
+
+.section-two {
+  background-color: #fff;
+  padding: 40px 20px;
+}
+
+.close {
+  padding: 10px;
+  border: none;
+  background: none;
+  font-size: inherit;
+  line-height: inherit;
+  float: right;
+}
+
+.question{
+  width: 100%;
+}
+
+.bottom-question{
+  bottom: 31px;
+}
+
+.question .btn{
+  width: 100%;
+  display: block;
+}
+button.btn.btn-primary.btn-lg.btn-block {
+  width: 100%;
+  margin-bottom: 10px;
 }
