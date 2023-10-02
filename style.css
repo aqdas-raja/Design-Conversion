@@ -73,6 +73,12 @@ p {
   position: relative;
 }
 
+.fever-img{
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 10%;  
+}
+
 .section-two {
   background-color: #fff;
   padding: 40px 20px;
@@ -93,6 +99,7 @@ p {
 
 .bottom-question{
   bottom: 31px;
+  margin-top: 30%;
 }
 
 .question .btn{
@@ -102,4 +109,29 @@ p {
 button.btn.btn-primary.btn-lg.btn-block {
   width: 100%;
   margin-bottom: 10px;
+}
+
+/*Index3 Styling*/
+
+.container-three{
+  width: 403px;
+  height: 717px;
+  top: -527px;
+  left: -97px;
+  background-color: #cccc;
+  margin: 0 AUTO;
+}
+
+.section-three {
+  background-color: #fff;
+  padding: 40px 20px;
+}
+
+.p1{
+  font-size: medium;
+}
+
+.p2{
+  font-size: medium;
+  
 }
