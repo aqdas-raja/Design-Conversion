@@ -139,3 +139,18 @@ button.btn.btn-primary.btn-lg.btn-block {
   padding: 40px 20px;
 }
 
+/*Index4 Styling*/
+
+.container-four{
+  Width: 405px;
+  Height: 774px;
+  Top: -527px;
+  Left: 343px;
+  background-color: #cccc;
+  margin: 0 AUTO;
+}
+
+.section-five {
+  background-color: #fff;
+  padding: 40px 10px;
+}
