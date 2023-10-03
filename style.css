@@ -62,6 +62,10 @@ p {
   width: 100%;
 }
 
+.header{
+  background-color: #cccc ; 
+}
+
 /*Index2 Styling*/
 
 .container-two{
@@ -69,7 +73,6 @@ p {
   height: 742px;
   top: -527px;
   left: -530px;
-  background-color: #cccc;
   margin: 0 AUTO;
 }
 
@@ -130,7 +133,6 @@ button.btn.btn-primary.btn-lg.btn-block {
   height: 717px;
   top: -527px;
   left: -97px;
-  background-color: #cccc;
   margin: 0 AUTO;
 }
 
@@ -146,7 +148,6 @@ button.btn.btn-primary.btn-lg.btn-block {
   Height: 774px;
   Top: -527px;
   Left: 343px;
-  background-color: #cccc;
   margin: 0 AUTO;
 }
 
