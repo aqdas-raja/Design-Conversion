@@ -9,7 +9,6 @@ html {
   top: -527px;
   left: -962px;
   margin: 0 auto;
-
 }
 
 .section-one {
@@ -21,7 +20,6 @@ html {
   background-color: #fff;
   padding: 40px 20px;
 }
-
 
 .logo-img {
   width: 15%;
@@ -62,13 +60,13 @@ p {
   width: 100%;
 }
 
-.header{
-  background-color: #cccc ; 
+.header {
+  background-color: #cccc;
 }
 
 /*Index2 Styling*/
 
-.container-two{
+.container-two {
   width: 406px;
   height: 742px;
   top: -527px;
@@ -84,14 +82,14 @@ p {
   left: 20px;
 }
 
-.header-img{
+.header-img {
   position: relative;
 }
 
-.fever-img{
+.fever-img {
   width: 80%;
   margin: 0 auto;
-  margin-top: 10%;  
+  margin-top: 10%;
 }
 
 .section-three {
@@ -108,16 +106,16 @@ p {
   float: right;
 }
 
-.question{
+.question {
   width: 100%;
 }
 
-.bottom-question{
+.bottom-question {
   bottom: 31px;
   margin-top: 30%;
 }
 
-.question .btn{
+.question .btn {
   width: 100%;
   display: block;
 }
@@ -128,7 +126,7 @@ button.btn.btn-primary.btn-lg.btn-block {
 
 /*Index3 Styling*/
 
-.container-three{
+.container-three {
   width: 403px;
   height: 717px;
   top: -527px;
@@ -143,11 +141,11 @@ button.btn.btn-primary.btn-lg.btn-block {
 
 /*Index4 Styling*/
 
-.container-four{
-  Width: 405px;
-  Height: 774px;
-  Top: -527px;
-  Left: 343px;
+.container-four {
+  width: 405px;
+  height: 774px;
+  top: -527px;
+  left: 343px;
   margin: 0 AUTO;
 }
 
@@ -156,6 +154,6 @@ button.btn.btn-primary.btn-lg.btn-block {
   padding: 40px 10px;
 }
 
-.list{
+.list {
   padding: 17px;
 }
